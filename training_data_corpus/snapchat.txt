@@ -1,0 +1,20 @@
+Of course, you’ll also provide us whatever information you send through our services, such as Snaps and Chats. 
+how you interact with our services, such as which filters you view or apply to Snaps, which Stories you watch on Discover, whether you’re using Spectacles, or which search queries you submit.
+how you communicate with other Snapchatters, such as their names, the time and date of your communications, the number of messages you exchange with your friends, which friends you exchange messages with the most, and your interactions with messages (such as when you open a message or capture a screenshot).
+Content Information. We collect content you create on our services, such as custom stickers, and information about the content you create or provide, such as if the recipient has viewed the content and the metadata that is provided with the content.
+information about your hardware and software, such as the hardware model, operating system version, device memory, advertising identifiers, unique application identifiers, apps installed, unique device identifiers, browser type, language, battery level, and time zone;
+information from device sensors, such as accelerometers, gyroscopes, compasses, microphones, and whether you have headphones connected; and
+information about your wireless and mobile network connections, such as mobile phone number, service provider, IP address, and signal strength.
+Device Phonebook. Because Snapchat is all about communicating with friends, we may—with your permission—collect information from your device’s phonebook.
+Camera and Photos. Many of our services require us to collect images and other information from your device’s camera and photos. For example, you won’t be able to send Snaps or upload photos from your camera roll unless we can access your camera or photos.
+Location Information. When you use our services we may collect information about your location. With your permission, we may also collect information about your precise location using methods that include GPS, wireless networks, cell towers, Wi-Fi access points, and other sensors, such as gyroscopes, accelerometers, and compasses.
+Information Collected by Cookies and Other Technologies. Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. We may also use these technologies to collect information when you interact with services we offer through one of our partners, such as advertising and commerce features. 
+details about how you’ve used our services;
+device information, such as your web browser type and language;
+access times;
+pages viewed;
+IP address;
+identifiers associated with cookies or other technologies that may uniquely identify your device or browser; and
+pages you visited before or after navigating to our website.
+Advertisers, app developers, publishers, and other third parties may share information with us as well. We may use this information, among other ways, to help target or measure the performance of ads. 
+We are not responsible for how those third parties collect or use your information.
